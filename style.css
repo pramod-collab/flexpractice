@@ -5,6 +5,7 @@
     display: flex;
     color: white;
     font-size: 28px;
+    flex-direction:row-reverse
 }
 
 .flex-item1  { 
