@@ -5,7 +5,18 @@
     display: flex;
     color: white;
     font-size: 28px;
-    flex-direction:row-reverse
+    /* uncomment below to see effect one by one and don't forget to comment again while uncommenting another*/
+
+   /* flex-direction:row-reverse*/
+
+   /*flex-direction: column; */
+
+   /* flex-direction: column-reverse; */
+
+   /* Default is row */
+   /* flex-direction: row;*/ 
+   
+
 }
 
 .flex-item1  { 
